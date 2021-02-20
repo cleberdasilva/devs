@@ -1,0 +1,75 @@
+Incio
+Despertador toca
+Abro os meus olhos
+Procuro o despertador
+Delisgo o despertador
+Se for dia semana serão 5:40
+Ser for final de seman serão 7:40
+Me levanto da cama
+Caminho até o banheiro
+Abro a porta do banheiro
+Entro no banheiro
+Fecho a porta do banheiro
+Faço minhas necessidades matinais e minha higiene matinal
+Abro a porta do banheiro
+Saio do banheiro
+Fecho a porta do banheiro
+Caminho até a porta do quarto
+Abro a porta do quarto
+Saio do Quarto deixando a porta aberta
+Caminho até o proximo quarto e entro
+Vou até o quarda roupas pego bermuda, camiseta e meias, me visto
+Caminho até o ouro armario, escolho um tenis e calço
+Saio do quarto
+Desço as escadas
+Pego uma mascara na sala de estar
+Pego as chaves de casa
+Abro a porta da salta, saio
+Fecho a porta da sala
+Apago a luz da garagem
+Caminho até o portão
+Abro o portão
+Saio para  a rua
+Fecho o portão
+Caminho por uma hora
+Volto para casa
+Abro o porttão e entro
+Fecho o portão
+Caminho até a porta da sala e abro, tiro os tenis sujos
+Entro em casa
+Fecho a porta
+Caminho até o banheiro e abro a porta
+Entro no banheiro
+Fecho a porta
+Abro o box e entro
+Fecho o box
+Ligo o chuveiro
+Tomo um banho
+Desligo o chuveiro
+Abro e saio do box
+Fecho o box
+Pego uma toalhe e me seco
+Visto as roupas previamente escolhidas
+Abro a porta do banheiro
+Saio do banheiro
+Fecho o banheiro
+Caminho pela quarto e saio para o corredor
+Desço as escadas
+Vou até a cozinha
+Preparo meu café da manha
+Levo tudo para a sala de jantar
+Tomo meu café
+Pego as chaves do carro
+Abro a porta da sala
+Saio
+Fecho a porta da Sala
+Fecho a porta
+Caminho até o carro e desaciono o alarme
+Entro no carro e o ligo
+Abro o portão
+Saio para a rua
+Fecho o portão
+Vou para o trabalho
+Trabalho até meio dia
+Saio e volto para casa
+Fim
